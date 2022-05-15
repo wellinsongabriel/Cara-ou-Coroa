@@ -1,0 +1,33 @@
+body{
+    height: 90px;
+    width: 85px;
+}
+
+img{
+    cursor: pointer;
+    position: absolute;
+    width: 80px;
+}
+
+.cara{
+    opacity: 0;
+}
+
+.coroa{
+    opacity: 0;
+}
+
+img.sorteada{
+    opacity: 1;
+    transition: opacity 100ms;/*efeito do lado da moeda sorteda aparecendo*/
+}
+
+.atualizar{
+    width: 10px;
+    bottom: 2px;
+    margin-left: 80%;
+    position: fixed;
+}
+
+
+

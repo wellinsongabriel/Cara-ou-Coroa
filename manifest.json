@@ -1,0 +1,16 @@
+{
+  "name": "Cara ou Coroa",
+  "description": "Lançe a moeda",
+  "version": "1.0",
+  "manifest_version": 3,
+  
+  "action":{
+	
+    "default_popup": "index.html",  
+  
+    "default_icon":{
+      "64":"img/cara_coroa.png"
+    }
+
+	}
+}
